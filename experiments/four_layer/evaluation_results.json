@@ -1,0 +1,13 @@
+{
+    "model": "fourlayernet",
+    "epochs": 50,
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "test_accuracy": 0.4622222222222222,
+    "params": 449330.0,
+    "flops": 1070809088.0,
+    "accuracy": 0.4622222222222222,
+    "precision": 0.4595847485847486,
+    "recall": 0.4622222222222222,
+    "f1": 0.4454373295255917
+}
